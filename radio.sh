@@ -1,8 +1,7 @@
 #!/bin/bash
-# Autora: Alexia Rivera Steinberg <lachicadesistemas@gmail.com>
+# Autora: Alexia Rivera Steinberg <alexiarstein@aol.com>
 # https://github.com/alexiarstein
 # GNU GPL 3.0 (See LICENSE)
-# https://www.lachicadesistemas.com.ar
 # -------------------------------------------------------------
 
 declare -A radio=(
